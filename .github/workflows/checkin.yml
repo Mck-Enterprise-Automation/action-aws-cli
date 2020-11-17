@@ -1,4 +1,4 @@
-name: "master builds"
+name: "master builds workflow"
 on:
   push:
     branches:
